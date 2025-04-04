@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/338070512104297828/da687b2c6169435da0da64b25aa03167/artifacts
+end_time: 1743761492749
+entry_point_name: ''
+experiment_id: '338070512104297828'
+lifecycle_stage: active
+run_id: da687b2c6169435da0da64b25aa03167
+run_name: valuable-horse-96
+run_uuid: da687b2c6169435da0da64b25aa03167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743761492336
+status: 3
+tags: []
+user_id: acer

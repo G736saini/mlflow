@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/338070512104297828/618e1ce1664847118d63459bfc293c0f/artifacts
+end_time: 1743761592500
+entry_point_name: ''
+experiment_id: '338070512104297828'
+lifecycle_stage: active
+run_id: 618e1ce1664847118d63459bfc293c0f
+run_name: indecisive-colt-412
+run_uuid: 618e1ce1664847118d63459bfc293c0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743761592266
+status: 3
+tags: []
+user_id: acer
